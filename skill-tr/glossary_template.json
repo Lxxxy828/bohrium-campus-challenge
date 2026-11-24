@@ -1,0 +1,13 @@
+{
+  "_说明": "术语表模板（示意，非正式案例）。实际运行在 /app/work/glossary.json 维护，最终随 result.json 的\"术语表\"字段输出。",
+  "entries": [
+    {
+      "term_id": "T01",
+      "source_term": "示例术语（英文原词）",
+      "translation": "锁定译名",
+      "domain": "学科领域",
+      "first_occurrence": "P3/第2页",
+      "note": "缩写/异名/备注（可选）"
+    }
+  ]
+}
